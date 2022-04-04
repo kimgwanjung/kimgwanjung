@@ -1,3 +1,5 @@
 ### Hi I'm Gwanjung Kim 
 
-Studying Computer Science
+### Studying Computer Science
+📘
+### Edu
