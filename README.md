@@ -1,6 +1,6 @@
 ### Hi I'm Gwanjung Kim 
 
-#### Studying Computer Science
+#### Studying Alogorithm
 
 ##### 📘 Edu
 ###### -Catholic Univ, Major is Computer science
