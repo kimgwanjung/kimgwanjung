@@ -3,6 +3,6 @@
 #### Studying Alogorithm
 
 ##### 📘 Edu
-###### -Catholic Univ, Major is Computer science
+###### Catholic Univ, Major is Computer science
 ##### 🧩 Skill
 ###### Java/Python/C/HTML/Spring/Spring-boot
