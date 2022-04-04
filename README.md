@@ -2,6 +2,4 @@
 
 #### Studying Computer Science
 
-📘Edu
--Catholic Univ. Major is computer science
--
+##### 📘Edu
