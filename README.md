@@ -5,4 +5,4 @@
 ##### 📘 Edu
 ###### Catholic Univ, Major is Computer science
 ##### 🧩 Skill
-###### Java/Python/C/HTML/Spring/Spring-boot
+###### Java/Python/C/HTML/Spring/Spring-boot/MYSQL
