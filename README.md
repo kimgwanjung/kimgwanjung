@@ -7,4 +7,4 @@
 ##### 🧩 Skill
 ###### Java/Python/C/HTML/Spring/Spring-boot/MYSQL
 ##### ✨ Summary
-###### I'm cyrrently learning Back-End development
+###### I'm currently learning Back-End development
