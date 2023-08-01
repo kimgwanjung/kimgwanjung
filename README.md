@@ -1,16 +1,21 @@
-안녕하세요, 저는 김관중입니다! 👋
+# Hi, I'm Gwanjung Kim 👋
 
-📘 교육
-학교: 가톨릭대학교
-전공: 컴퓨터 공학
-현재 하나금융티아이 X 한국폴리텍 교육 중
-🧩 기술 스킬
-Java
-Python
-C
-HTML
-Spring
-Spring Boot
-MySQL
-✨ 소개
-저는 알고리즘과 문제 해결에 열정적으로 관심을 가지고 있는 개발자입니다. 현재 하나금융티아이와 한국폴리텍대학에서 다양한 교육과정을 이수하며 Java, Python, C, HTML, Spring, Spring Boot, 그리고 MySQL 등의 스킬을 연마하고 있습니다. 뛰어난 개발자가 되어 다양하고 혁신적인 프로젝트에 기여하고자 합니다.
+## 📘 Education
+- Major: Computer Science
+- Catholic University
+- Currently undergoing training at Hana Financial Technology & Korea Polytechnic University
+
+## 🧩 Skills
+- Java
+- Python
+- C
+- HTML
+- Spring
+- Spring Boot
+- MySQL
+
+## ✨ Summary
+I am an aspiring Back-End developer with a passion for algorithms and problem-solving. Currently, I am undergoing comprehensive training at Hana Financial Technology and Korea Polytechnic University, focusing on honing my skills in Java, Python, C, HTML, Spring, Spring Boot, and MySQL. My goal is to become a proficient developer and contribute to innovative and impactful projects.
+
+Feel free to explore my repositories to learn more about my projects and journey in the world of programming and computer science! 😊
+
