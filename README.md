@@ -9,11 +9,11 @@
 - Java
 - Python
 - C
-- HTML
+- Javascript
 - Spring
 - Spring Boot
 - MySQL
-
+- Oracle
 ## ✨ Summary
 I am an aspiring Back-End developer with a passion for algorithms and problem-solving. Currently, I am undergoing comprehensive training at Hana Financial Technology and Korea Polytechnic University, focusing on honing my skills in Java, Python, C, HTML, Spring, Spring Boot, and MySQL. My goal is to become a proficient developer and contribute to innovative and impactful projects.
 
